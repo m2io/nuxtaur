@@ -10,8 +10,7 @@
 		"dev": "nuxt dev",
 		"build": "nuxt generate",
 		"lint": "eslint . --fix",
-		"tauri": "tauri",
-		"android": "tauri android"
+		"tauri": "tauri"
 	},
 	"dependencies": {
 		"@pinia/nuxt": "^0.5.5",
